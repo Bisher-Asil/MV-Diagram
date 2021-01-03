@@ -1,5 +1,5 @@
 #This program is to calculate the MV diagram on a beam.
-#To run the code use Ctrl+Shift+B
+#Reminder for Atom: To run the code use Ctrl+Shift+B
 
 import tkinter as tk  #This is the library for the GUI
 
